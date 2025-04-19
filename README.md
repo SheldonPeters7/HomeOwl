@@ -11,9 +11,11 @@ Students: <br>
 Faculty Advisor: <br>
 - Dr. Vida Vakilian
 
+BACKGROUND <br>
 
 Visual Demonstration: <br>
 
+Poster Link: <br>
 
 Acknowledgements: <br>
 - Dr. Vedang Chauhan <br>
