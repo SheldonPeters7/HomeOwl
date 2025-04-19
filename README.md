@@ -12,9 +12,10 @@ Students: <br>
 Faculty Advisor: <br>
 - Dr. Vida Vakilian
 
-BACKGROUND <br>
+[insert BACKGROUND] <br>
 
-Visual Demonstration: <br>
+Video Demonstration: <br>
+[insert Video] <br>
 
 Poster Image: <br>
 ![Poster](https://github.com/SheldonPeters7/HomeOwl/raw/main/imageInclude/poster.jpg)
