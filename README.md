@@ -1,5 +1,5 @@
-# Home Owl Autonomous Security Robot
-![logo](https://github.com/SheldonPeters7/HomeOwl/raw/main/imageInclude/homeowl.png)
+![Home Owl](https://github.com/SheldonPeters7/HomeOwl/raw/main/imageInclude/white-homeowl.png)
+# Autonomous Security Robot
 
 CSU Channel Islands Capstone Project <br>
 
