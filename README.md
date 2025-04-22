@@ -24,6 +24,9 @@ Homes and commercial spaces face a variety of security risks like unauthorized e
 <ins>Poster Image:</ins> <br>
 ![Poster](https://github.com/SheldonPeters7/HomeOwl/raw/main/imageInclude/poster.jpg)
 
+<ins>Wiring Diagram:</ins> <br>
+![Wiring](https://github.com/SheldonPeters7/HomeOwl/raw/main/imageInclude/finalWiringDiagram.jpg)
+
 <ins>Acknowledgements:</ins> <br>
 -  Dr. Vida Vakilian <br>
 -  Dr. Vedang Chauhan <br>
