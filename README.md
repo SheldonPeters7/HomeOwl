@@ -22,7 +22,7 @@ Homes and commercial spaces face a variety of security risks like unauthorized e
 [insert Video] <br>
 
 <ins>Poster Image:</ins> <br>
-![Poster](https://github.com/SheldonPeters7/HomeOwl/raw/main/imageInclude/poster.jpg)
+![Poster](https://github.com/SheldonPeters7/HomeOwl/raw/main/imageInclude/poster.png)
 
 <ins>Wiring Diagram:</ins> <br>
 ![Wiring](https://github.com/SheldonPeters7/HomeOwl/raw/main/imageInclude/finalWiringDiagram.jpg)
