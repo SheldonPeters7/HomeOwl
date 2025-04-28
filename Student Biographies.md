@@ -1,8 +1,10 @@
 # Student Biographies
 
 <ins>Samantha Buckle:</ins> <br>
+Hi, I'm Samantha Buckle and I'm about to graduate with a B.S in Mechatronics Engineering, a Minor in Math, and a Minor in Computer Science. This has been a really fun project and learning opportunity with skills I hope to take into future jobs!
 
 <ins>Dylan Dauz:</ins> <br>
+My name is Dylan Dauz I am a graduating senior majoring in Mechatronics with a minor in Math. With this project, I am excited to showcase the culmination of my education here at CSUCI.
 
 <ins>Sameeh Olipani:</ins> <br>
 
